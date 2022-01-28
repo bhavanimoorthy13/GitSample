@@ -2,6 +2,9 @@ package org.git;
 
 public class SampleGit {
 
+	private void m4() {
+		System.out.println("nithya");
+	}
 	private void m3() {
 		System.out.println("priya");
 }
